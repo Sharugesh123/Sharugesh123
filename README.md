@@ -31,12 +31,12 @@
 
 | Domain | Skills |
 |--------|--------|
-| **Programming** | Java, SQL, C, C++ |
-| **Backend** | Spring Boot, REST APIs, MVC |
-| **Databases** | MySQL, PostgreSQL |
+| **Programming** | Java, SQL, C++ |
+| **Backend** | Spring Boot, REST APIs, MVC  |
+| **Databases** | MySQL, PostgreSQL, JDBC |
 | **Tools** | Postman, Git, GitHub, IntelliJ, VS Code |
 | **Web** | HTML, CSS, JavaScript |
-| **Other** | JSON, JWT, Authentication, API Security |
+| **Other** | JSON, API Security |
 
 ---
 
