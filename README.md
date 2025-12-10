@@ -1,22 +1,17 @@
-<h1 align="center">Hi 👋, I'm Sharugesh B</h1>
-<h3 align="center">Backend Developer | Java | Spring Boot | SQL</h3>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="32px">
+  &nbsp;Hey, I'm <span style="font-size:40px; font-weight:800;">Sharugesh B</span>
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sharugesh123&label=Visitors&color=blue" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=700&center=true&vCenter=true&width=650&lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+REST+APIs+%7C+SQL;Building+Secure+and+Scalable+Server+Applications;Turning+Business+Logic+into+Reliable+APIs" alt="Typing Animation"/>
+  </a>
 </p>
 
----
-
-## 👨‍💻 About Me
-
-- Passionate backend developer focused on building **secure, scalable, API-driven systems**
-- Strong experience in **Java, Spring Boot, MySQL, REST APIs, Authentication**
-- Solid understanding of **data handling, validation, and transaction workflows**
-- Interested in **backend engineering, distributed systems, and performance optimization**
-- Open to roles in **Backend / Full-Stack / API Development**
-
-📫 Reach me at: **sharugesh17@gmail.com**  
-🔗 LinkedIn: https://www.linkedin.com/in/sharugesh-baskar-2b7b97297/
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postman,git,github" height="55" />
+</p>
 
 ---
 
