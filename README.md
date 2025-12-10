@@ -1,84 +1,70 @@
-<h1 align="center">Sharugesh B</h1>
-<h3 align="center">Backend Developer | Java • Spring Boot • SQL • REST APIs</h3>
+<div align="center">
+  # 👋 Hey, I'm SHARUGESH BASKAR
+  
+  ### 🚀 Full Stack Java Developer | Bangalore, India
+  
+  **Aspiring Software Development Engineer (SDE) focused on building reliable, scalable backend systems.**
+  
+  <p>
+    <a href="mailto:sharugesh17@gmail.com">Email</a> • 
+    <a href="[Your LinkedIn URL]">LinkedIn</a> • 
+    <a href="[Your GitHub URL]">GitHub</a> • 
+    <a href="[Link to your resume file or Portfolio URL]">Portfolio</a>
+  </p>
+</div>
 
 ---
 
-## 🧾 Who I Am
-Backend-focused developer passionate about designing clean REST APIs, reliable backend systems, and optimized database logic.  
-I enjoy solving real engineering problems — from debugging request flows to structuring scalable data models.
+## 🛠️ Technical Stack & Tools
 
-📍 India | 📧 sharugesh17@gmail.com  
-🔗 LinkedIn: /sharugesh-baskar-2b7b97297/
+> A strong foundation in the Java ecosystem, database design, and core Computer Science concepts (OOP, DSA).
 
----
-
-## 🛠 Core Technical Focus
-
-| Area | What I Do |
-|------|-----------|
-| **Backend Architecture** | API design, layered services, DTO mapping, exception handling |
-| **Java + Spring Boot** | Controllers, Services, JPA/Hibernate, validation, security basics |
-| **SQL & Data Structuring** | Schema modeling, joins, indexing, optimization, ACID logic |
-| **API Communication** | JSON standards, pagination, filtering, request tracing |
-| **Testing & Debugging** | Postman workflows, error logs, status code accuracy |
-
----
-
-## 📌 Work Philosophy
-> Structured code, predictable behavior, detailed validation, and clean logging.
-
-- Write clarity before cleverness  
-- Database must match business logic, not “just store data”  
-- API must fail gracefully, not loudly  
-- Errors ≠ exceptions: they must explain cause, not crash systems  
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
+  <img src="https://img.shields.io/badge/REST%20API-3669A5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTI1NiAxNjBWMEMxMTUuMyAwIDAgMTE1LjMgMCAyNTZjMCAxNDEuNyAxMTUuMyAyNTYgMjU2IDI1NnMyNTYtMTE0LjMgMjU2LTI1NlMzOTYuNyAxNjAgMjU2IDE2MFptMC0xMjguNkwxNjAgMjU2aDE5MkwyNTYgMzEuNFoiLz48L3N2Zz4=&logoColor=white" alt="REST API"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+</p>
 
 ---
 
-## 🧩 Featured Backend Projects
+## 💡 Key Projects & Experience
 
-### 1. Transaction Monitoring & Fraud Detection System  
-`Java • Spring Boot • MySQL • Risk Engine`  
-Designed fraud rules, dashboards for flagged cases, and consistent audit tracking.
+### 1. 🚨 Transaction Monitoring & Fraud Detection System
+*(Java, Spring Boot, MySQL)*
+* [cite_start]**Focus:** Designed and built a backend service for **real-time financial transaction processing** and **rule-based fraud checks**[cite: 17].
+* [cite_start]**Impact:** Implemented a **Risk Scoring Algorithm** with automated flags based on thresholds and anomaly frequency to aid fraud analysts[cite: 21].
+* [cite_start]**Architecture:** Developed secured **REST APIs** for recording transactions and retrieving high-risk flagged cases[cite: 18].
+* [cite_start]**Database:** Structured **normalized MySQL tables** with real-time flagging indicators for fast querying and fraud lookup[cite: 19].
 
-**Highlights**
-- Rule scoring for unusual spend patterns
-- Clear API flow: transaction → evaluation → risk tag → response
-- Detailed error surfaces + JSON response uniformity
-
----
-
-### 2. E-Commerce Product Management System  
-`Java • Spring Boot • MySQL • REST`  
-Inventory CRUD with precise admin handling.
-
-**What Matters**
-- Product existence validation before update/delete  
-- Consistent naming & pagination for reliable API responses  
-- Predictable DB schema → predictable inventory state  
+### 2. 🛍️ E-Commerce Product Management System
+*(Java, Spring Boot, MySQL, HTML, CSS, JavaScript)*
+* [cite_start]**Focus:** Implemented comprehensive product catalog management, including **CRUD operations**, stock updates, and category filtering[cite: 24].
+* [cite_start]**Architecture:** Built secured **REST APIs** for product listing, detail retrieval, and admin-level modifications using a layered service-controller-repository design[cite: 24, 25].
+* [cite_start]**Database:** Designed **relational MySQL schema** with indexed columns (product id, category, price) to optimize search queries and reduce latency[cite: 26].
+* [cite_start]**Validation:** Utilized **Postman collections** to rigorously validate each API flow, covering essential edge cases[cite: 28].
 
 ---
 
-## 🎯 Strength in Backend Thinking
+## 🎓 Education & Certifications
 
-| Principle | Execution |
-|----------|-----------|
-| **Idempotent APIs** | repeat calls ≠ duplicate writes |
-| **Consistent JSON Spec** | same error structure everywhere |
-| **Schema Discipline** | no hidden nulls, no loose types |
-| **Validation First** | API gates bad data early |
-| **Traceability** | logs → predictable → debuggable |
+* [cite_start]**B.E., Computer Science and Engineering:** Gnanamani College of Technology[cite: 30, 31].
+* [cite_start]**Full Stack Java Development Training:** Completed end-to-end training covering Core Java, Spring Boot, REST APIs, MySQL, and frontend technologies[cite: 40, 41].
+* [cite_start]**Key Certifications:** Programming in Java (NPTEL), SQL Programming (UDEMY), Secure Coding in Spring Boot (UDEMY)[cite: 37, 38, 39].
 
 ---
 
-## 🧭 Learning Direction (Current)
-- Solidify microservices messaging (Kafka basics)
-- Understand caching workflows (Redis fundamentals)
-- Hands-on improvement in DB indexing and profiling
+## 📈 GitHub Activity
 
----
+> This section dynamically updates, showcasing your coding activity, commit streak, and language usage. **(Remember to update the username!)**
 
-## 🤝 Let's Connect
-Open to backend engineering roles, API development, and system-focused work.
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sharugesh123&show_icons=true&theme=dark)](https://github.com/Sharugesh123)
 
-📫 sharugesh17@gmail.com  
-💼 LinkedIn: /sharugesh-baskar-2b7b97297/
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharugesh123&layout=compact&theme=dark)](https://github.com/Sharugesh123)
