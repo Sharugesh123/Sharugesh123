@@ -15,72 +15,67 @@
 
 ---
 
+## 👨‍💻 About Me
+- Backend developer focused on building secure and scalable systems
+- Strong expertise in **Java, Spring Boot, REST APIs, SQL**
+- Experience with **data validation, exception handling, authentication, and API architecture**
+- Passionate about backend engineering, API performance, and database reliability
+- Open to Backend / API / Full-Stack opportunities
+
+📫 Email: **sharugesh17@gmail.com**  
+🔗 LinkedIn: https://www.linkedin.com/in/sharugesh-baskar-2b7b97297/
+
+---
+
 ## 🛠️ Tech Stack
 
-| Category | Technologies |
-|----------|--------------|
-| **Languages** | Java, SQL, C, C++ |
-| **Backend Frameworks** | Spring Boot, Hibernate, REST APIs |
+| Domain | Skills |
+|--------|--------|
+| **Programming** | Java, SQL, C, C++ |
+| **Backend** | Spring Boot, REST APIs, MVC |
 | **Databases** | MySQL, PostgreSQL |
 | **Tools** | Postman, Git, GitHub, IntelliJ, VS Code |
 | **Web** | HTML, CSS, JavaScript |
-| **Other** | JSON, MVC, JWT, API Security |
+| **Other** | JSON, JWT, Authentication, API Security |
 
 ---
 
 ## 📌 Projects
 
 ### 🔹 Transaction Monitoring & Fraud Detection System
-- Built fraud flagging logic using **transaction scoring + rule based triggers**
-- Developed APIs for **transaction entry, risk lookup, and flagged case review**
-- Real-time risk detection based on **unusual amount, rapid spend, low KYC**
-- Ensured secure data handling with **input validation & exception handling**
-- Stack: **Java, Spring Boot, MySQL, REST, Postman**
+- Built API service for **real-time transaction risk analysis**
+- Automated fraud detection rules (unusual amount, rapid usage, low KYC)
+- Added **data validation + robust error handling** to prevent false triggers
+- Stack: **Java, Spring Boot, MySQL, REST**
 
 ### 🔹 E-Commerce Product Management System
-- CRUD operations for **product inventory, pricing, filtering**
-- Built with **Spring Boot + MySQL**
-- Simple admin UI for monitoring & product controls
-- CORS handled + full API testing through Postman
+- CRUD operations for **product catalog, pricing, stock, filters**
+- Backend using **Spring Boot + MySQL**
+- Simple admin UI for managing inventory and product updates
+- CORS handled + API tested via Postman
 
 ---
 
-## 📊 GitHub Analytics
+## 📁 Tools & Utilities
 
-<div align="center">
-
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=Sharugesh123&theme=dark&hide_border=true" />
-<br>
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Sharugesh123&show_icons=true&theme=dark&hide_border=true" />
-<br>
-<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharugesh123&layout=compact&theme=dark&hide_border=true" />
-
-</div>
-
----
-
-## 🧠 Coding Profiles
-
-<div align="center">
-<a href="https://leetcode.com/u/sharugesh17/">
-  <img src="https://leetcard.jacoblin.cool/sharugesh17?theme=dark&font=Baloo&ext=contest" alt="Sharugesh LeetCode Stats" />
-</a>
-</div>
+- **Postman** for API workflow validation
+- **Git/GitHub** for version control
+- **IntelliJ & VS Code** for development
+- **MySQL Workbench / pgAdmin** for DB operations
 
 ---
 
 ## 🤝 Let's Connect
 
 <p align="center">
-<a href="https://www.linkedin.com/in/sharugesh-baskar-2b7b97297/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
-</a>
-&nbsp;
-<a href="mailto:sharugesh17@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="40"/>
-</a>
+<a href="https://www.linkedin.com/in/sharugesh-baskar-2b7b97297/"><img src="https://skillicons.dev/icons?i=linkedin" width="42"/></a>
+&nbsp;&nbsp;
+<a href="mailto:sharugesh17@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="42"/></a>
 </p>
 
+---
+
+⭐ **Thanks for visiting!** Open to collaboration and backend engineering discussions.
 ---
 
 ⭐ **Thanks for visiting my profile!**  
