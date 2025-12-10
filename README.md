@@ -66,13 +66,16 @@
 <img src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif" height="20" width="100%">
 
 ## 📊 GitHub Stats & Analytics
+<div align="center">
 
-https://github-readme-streak-stats.herokuapp.com?user=Sharugesh123&theme=dark&hide_border=true
-https://github-readme-stats.vercel.app/api?username=Sharugesh123&show_icons=true&theme=dark&hide_border=true
-https://github-readme-stats.vercel.app/api/top-langs/?username=Sharugesh123&layout=compact&theme=dark&hide_border=true
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sharugesh123&theme=dark&hide_border=true)
+<br><br>
+![Sharugesh GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sharugesh123&show_icons=true&theme=dark&hide_border=true)
+<br><br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharugesh123&layout=compact&theme=dark&hide_border=true)
 
+</div>
 
----
 
 ## 📈 Coding Profiles
 
