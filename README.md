@@ -67,15 +67,10 @@
 
 ## 📊 GitHub Stats & Analytics
 
-<div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sharugesh123&theme=dark&hide_border=true)
-<br><br>
-![Sharugesh GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sharugesh123&show_icons=true&theme=dark&hide_border=true)
-<br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharugesh123&layout=compact&theme=dark&hide_border=true)
+https://github-readme-streak-stats.herokuapp.com?user=Sharugesh123&theme=dark&hide_border=true
+https://github-readme-stats.vercel.app/api?username=Sharugesh123&show_icons=true&theme=dark&hide_border=true
+https://github-readme-stats.vercel.app/api/top-langs/?username=Sharugesh123&layout=compact&theme=dark&hide_border=true
 
-</div>
 
 ---
 
@@ -83,7 +78,7 @@
 
 <div align="center">
   
-<a href="#"><img src="https://leetcard.jacoblin.cool/YourLeetCodeUsername?ext=contest&theme=dark" /></a>
+<a href="#"><img src="https://leetcard.jacoblin.cool/https://leetcode.com/u/sharugesh17/?ext=contest&theme=dark" /></a>
 
 </div>
 
