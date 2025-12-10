@@ -1,9 +1,9 @@
 <div align="center">
-  # 👋 Hey, I'm [Your Name]
+  # 👋 Hey, I'm SHARUGESH BASKAR
   
-  ### 🚀 [Your Job Title/Focus] from [Your Location]
+  ### 🚀 JAVA FULL STACK DEVELOPER 
   
-  [Your Profile Tagline or Key Skill, e.g., CI/CD Automation | Jenkins]
+  [Java]
   
   <p>
     <a href="mailto:youremail@example.com">Email</a> • 
