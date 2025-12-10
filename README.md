@@ -1,9 +1,17 @@
-# 🌟 Hi there! I'm SHARUGESH BASKAR
-
-### 💡 Aspiring Software Development Engineer (SDE) | Backend Focus
-
-A dedicated and highly motivated engineering student specializing in robust backend development and efficient data structuring. I focus on developing scalable, secure, and maintainable applications using the Java ecosystem. I am passionate about solving complex problems and applying **Core Concepts** to build production-ready systems.
-
+<div align="center">
+  # 👋 Hey, I'm [Your Name]
+  
+  ### 🚀 [Your Job Title/Focus] from [Your Location]
+  
+  [Your Profile Tagline or Key Skill, e.g., CI/CD Automation | Jenkins]
+  
+  <p>
+    <a href="mailto:youremail@example.com">Email</a> • 
+    <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> • 
+    <a href="https://github.com/yourusername">GitHub</a> • 
+    <a href="[Link to your resume file]">Resume</a>
+  </p>
+</div>
 ---
 
 ### 🔥 Technical Expertise
