@@ -14,6 +14,12 @@
 </p>
 
 ---
+📄 **Download My Resume**
+<p align="center">
+  <a href="https://github.com/Sharugesh123/Sharugesh123/raw/main/SHARUGESH-FULLSTACK.pdf" download>
+    <img src="https://img.shields.io/badge/Download%20Resume-1E90FF?style=for-the-badge&logo=adobe&logoColor=white">
+  </a>
+</p>
 
 ## 👨‍💻 About Me
 - Backend developer focused on building secure and scalable systems
